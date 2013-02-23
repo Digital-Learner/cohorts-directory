@@ -1,0 +1,5 @@
+Cohorts Student Directory
+
+1st application written as at February Makers Academy (Cohort 1)
+
+Inspired and iterated from 1st team project to keep own ideas and showcase learning progression.
